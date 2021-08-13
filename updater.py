@@ -1,6 +1,6 @@
-# make by LEGENDX22 🔥🔥
-# MAKE BY LEGEND X
-#make for ULTRA X
+# make by Addy_hermione 🔥🔥
+# MAKE BY Addy_hermione 
+#make for Hermiome
 # KANG KRNA H TO CREDITS DEDENA 
 '''
 from datetime import datetime
@@ -9,8 +9,8 @@ from asyncio import sleep
 from os import execl
 import sys
 import os
-from ULTRA import bot as javes
-from ULTRA.utils import admin_cmd
+from HERMIONE import bot as javes
+from HERMIONE.utils import admin_cmd
 import io
 import heroku3
 import asyncio
@@ -19,7 +19,7 @@ from asyncio.subprocess import PIPE as asyncPIPE
 
 import sys
 import json
-from ULTRA import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
+from HERMIONE import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
 from speedtest import Speedtest
 from telethon import functions
 from os import remove, execle, path, makedirs, getenv, environ
@@ -42,15 +42,15 @@ try:
    from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 except:
 	pass
-from ULTRA import CMD_HELP, bot
-from ULTRA import CMD_HELP, LOGS
+from HERMIONE import CMD_HELP, bot
+from HERMIONE import CMD_HELP, LOGS
 from asyncio import create_subprocess_shell as asyncrunapp
 from asyncio.subprocess import PIPE as asyncPIPE
 from platform import python_version, uname
 from shutil import which
 from os import remove
 from telethon import version
-from ULTRA import CMD_HELP
+from HERMIONE import CMD_HELP
 
 import heroku3
 import asyncio
@@ -58,7 +58,7 @@ import os
 import requests
 import math
 
-from ULTRA import CMD_HELP
+from HERMIONE import CMD_HELP
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = os.environ.get("HEROKU_APIKEY", None)
 HEROKU_APPNAME = os.environ.get("HEROKU_APP_NAME", None)
@@ -67,7 +67,7 @@ HEROKU_APIKEY = os.environ.get("HEROKU_APIKEY", None)
 
 
 Heroku = heroku3.from_key(HEROKU_API_KEY)
-GIT_REPO_NAME = "LEGEND-BOT"
+GIT_REPO_NAME = "HERMIONE-BOT"
 heroku_api = "https://api.heroku.com"
 UPSTREAM_REPO_URL="https://github.com/legendx22/LEGEND-BOT"
 
@@ -281,8 +281,8 @@ async def upstream(ups):
         return
 
 '''
-from ULTRA.utils import admin_cmd
+from HERMIONE.utils import admin_cmd
 @borg.on(admin_cmd(pattern="update|update now"))
 async def hehe (event):
   await event.edit("want to update your bot ?\nnow not use update now use \n`.restart` only")
-#maked by LEGENDX22 🔥🔥🔥⚡⚡⚡⚡
+ 🔥🔥🔥⚡⚡⚡⚡
